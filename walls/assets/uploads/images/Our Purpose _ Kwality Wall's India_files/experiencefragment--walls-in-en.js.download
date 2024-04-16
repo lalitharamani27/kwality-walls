@@ -1,0 +1,3 @@
+/* Version=3.0.0,Timestamp=2024-02-21T07:52:56.097Z */
+
+!function(){function e(){!function(){const e=[{id:"#sg-pdp-choco-theme",class:"sg-pdp-choco-theme"},{id:"#sg-pdp-blue-theme",class:"sg-pdp-blue-theme"},{id:"#sg-pdp-pink-theme",class:"sg-pdp-pink-theme"},{id:"#sg-pdp-toffee-theme",class:"sg-pdp-toffee-theme"}].find((e=>Boolean(document.querySelector(`.experiencefragment ${e.id}`)))),t=document.querySelector("body");t&&e&&t.classList.add(e.class)}()}"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)}();
